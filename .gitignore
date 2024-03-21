@@ -1,0 +1,6 @@
+#1]'#' - used for comments.
+#2]adding names of files which we want to hide (each in separate line)
+secret1.txt
+secret2.txt
+#3]'*' - used to add all files with specified extension.
+#*.txt - add all text files
